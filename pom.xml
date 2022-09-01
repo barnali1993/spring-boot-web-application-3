@@ -5,7 +5,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.in28minutes.springboot.web</groupId>
-	<artifactId>03-spring-boot-web-application-h2</artifactId>
+	<artifactId>spring-boot-web-application</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 
