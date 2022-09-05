@@ -1,6 +1,6 @@
 #!/bin/bash
 isExistApp=`pgrep java`
 if [[ -n  $isExistApp ]]; then
-   ./catalina.sh stop
+   /apache-tomcat-8.5.82/bin/catalina.sh stop
 fi
 
